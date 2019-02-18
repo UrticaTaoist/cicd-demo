@@ -15,7 +15,7 @@ public class CicdDemoApplication {
 
     @GetMapping
     public Object get(){
-        return "2019年2月16日15:58:05 by luutqf  ";
+        return "2019年2月18日09:28:22 by luutqf  ";
     }
 }
 
