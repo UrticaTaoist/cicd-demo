@@ -46,6 +46,8 @@
                 <configuration>
                     <imageName>${docker.image.prefix}/${project.artifactId}</imageName>
                     <dockerDirectory>src/main/docker</dockerDirectory>
+                         <serverId>docker-hub</serverId>
+                         <registryUrl>https://registry.cn-hangzhou.aliyuncs.com/</registryUrl>
                     <resources>
                         <resource>
                             <targetPath>/</targetPath>
