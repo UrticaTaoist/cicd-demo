@@ -17,7 +17,7 @@
     <properties>
         <java.version>1.8</java.version>
         <docker-maven-plugin.version>1.0.0</docker-maven-plugin.version>
-        <docker.image.prefix>luutqf</docker.image.prefix>
+        <docker.image.prefix>registry.cn-hangzhou.aliyuncs.com/zhenyang</docker.image.prefix>
     </properties>
 
     <dependencies>
