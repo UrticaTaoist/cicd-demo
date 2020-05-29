@@ -57,11 +57,5 @@
             </plugin>
         </plugins>
     </build>
-         <servers>
-           <server>
-             <id>docker-hub</id>
-             <username>17343104125</username>
-             <password>{lwKANdVrRs0HLe0BMGhASRuEMacEoQWnpt9vLz0SE7k=}</password>
-           </server>
-         </servers>
+
 </project>
