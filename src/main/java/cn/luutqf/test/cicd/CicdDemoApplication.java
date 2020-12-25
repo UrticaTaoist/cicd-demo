@@ -15,6 +15,7 @@ public class CicdDemoApplication {
 
     @GetMapping
     public Object get(){
+        System.out.println("dfddddddddd");
         return "2019-2-16 15:54:12 by master d  ds";
     }
 }
